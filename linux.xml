@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="3rd_party"
+        fetch="https://github.com" />
+
+    <remote name="self"
+        fetch="ssh://git@github.com" />
+
+    <default revision="master"
+        remote="3rd_party"
+        sync-j="4"
+        sync-c="true" />
+
+    <project path="ToolBox" name="wjxing/ToolBox" remote="self"/>
+</manifest>
