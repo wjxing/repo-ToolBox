@@ -11,5 +11,6 @@
         sync-j="4"
         sync-c="true" />
 
-    <project path="ToolBox" name="wjxing/ToolBox" remote="self"/>
+    <project path="setup" name="wjxing/ToolBox" remote="self"/>
+    <project path="Source/bd" name="vigneshwaranr/bd"/>
 </manifest>
