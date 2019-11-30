@@ -12,13 +12,13 @@
         sync-c="true" />
 
     <project path="setup" name="wjxing/ToolBox" remote="self"/>
-    <project path="bin" name="wjxing/self-bin" remote="self"/>
-    <project path="Source/bd" name="vigneshwaranr/bd"/>
-    <project path="Source/crash" name="crash-utility/crash"/>
-    <project path="Source/gdb-dashboard" name="cyrus-and/gdb-dashboard"/>
-    <project path="Source/gdbgui" name="cs01/gdbgui"/>
-    <project path="Source/luvcview" name="ksv1986/luvcview"/>
-    <project path="Source/nemiver" name="GNOME/nemiver"/>
-    <project path="Source/tmux" name="tmux/tmux"/>
-    <project path="Source/zsh" name="zsh-users/zsh"/>
+    <project path="bin" name="wjxing/BinBox" remote="self"/>
+    <project path="source/bd" name="vigneshwaranr/bd"/>
+    <project path="source/crash" name="crash-utility/crash"/>
+    <project path="source/gdb-dashboard" name="cyrus-and/gdb-dashboard"/>
+    <project path="source/gdbgui" name="cs01/gdbgui"/>
+    <project path="source/luvcview" name="ksv1986/luvcview"/>
+    <project path="source/nemiver" name="GNOME/nemiver"/>
+    <project path="source/tmux" name="tmux/tmux" groups="notdefault,tmux"/>
+    <project path="source/zsh" name="zsh-users/zsh" groups="notdefault,zsh"/>
 </manifest>
