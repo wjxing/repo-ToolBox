@@ -19,6 +19,5 @@
     <project path="source/gdbgui" name="cs01/gdbgui"/>
     <project path="source/luvcview" name="ksv1986/luvcview"/>
     <project path="source/nemiver" name="GNOME/nemiver"/>
-    <project path="source/tmux" name="tmux/tmux" groups="notdefault,tmux"/>
-    <project path="source/zsh" name="zsh-users/zsh" groups="notdefault,zsh"/>
+    <project path="source/vim" name="vim/vim.git"/>
 </manifest>
