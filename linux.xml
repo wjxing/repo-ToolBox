@@ -17,6 +17,7 @@
     <project path="source/crash" name="crash-utility/crash"/>
     <project path="source/gdb-dashboard" name="cyrus-and/gdb-dashboard"/>
     <project path="source/gdbgui" name="cs01/gdbgui"/>
+    <project path="source/gef" name="hugsy/gef.git"/>
     <project path="source/luvcview" name="ksv1986/luvcview"/>
     <project path="source/nemiver" name="GNOME/nemiver"/>
     <project path="source/vim" name="vim/vim.git"/>
