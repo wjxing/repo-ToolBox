@@ -13,6 +13,7 @@
 
     <project path="setup" name="wjxing/ToolBox" remote="self"/>
     <project path="bin" name="wjxing/BinBox" remote="self"/>
+    <project path="config" name="wjxing/ToolConfBox" remote="self" revision="linux"/>
     <project path="source/bd" name="vigneshwaranr/bd"/>
     <project path="source/debug/crash/crash" name="crash-utility/crash"/>
     <project path="source/debug/gdb/gdb-dashboard" name="cyrus-and/gdb-dashboard"/>
