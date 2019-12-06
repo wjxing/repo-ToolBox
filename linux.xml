@@ -21,6 +21,9 @@
     <project path="source/debug/gdb/gef" name="hugsy/gef.git"/>
     <project path="source/luvcview" name="ksv1986/luvcview"/>
     <project path="source/nemiver" name="GNOME/nemiver"/>
+    <project path="source/zsh-plugin/oh-my-zsh" name="robbyrussell/oh-my-zsh.git"/>
+    <project path="source/zsh-plugin/zsh-autosuggestions" name="zsh-users/zsh-autosuggestions.git"/>
+    <project path="source/zsh-theme/powerlevel10k" name="romkatv/powerlevel10k.git"/>
     <project path="source/tmux-plugin/tmux-themepack" name="jimeh/tmux-themepack.git"/>
     <project path="source/vim" name="vim/vim.git"/>
 </manifest>
