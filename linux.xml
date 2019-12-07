@@ -14,17 +14,17 @@
     <project path="setup" name="wjxing/ToolBox" remote="self"/>
     <project path="bin" name="wjxing/BinBox" remote="self"/>
     <project path="config" name="wjxing/ToolConfBox" remote="self" revision="linux"/>
-    <project path="source/bd" name="vigneshwaranr/bd"/>
-    <project path="source/debug/crash/crash" name="crash-utility/crash"/>
-    <project path="source/debug/gdb/gdb-dashboard" name="cyrus-and/gdb-dashboard"/>
-    <project path="source/debug/gdb/gdbgui" name="cs01/gdbgui"/>
-    <project path="source/debug/gdb/gef" name="hugsy/gef.git"/>
-    <project path="source/luvcview" name="ksv1986/luvcview"/>
-    <project path="source/nemiver" name="GNOME/nemiver"/>
-    <project path="source/zsh-plugin/autojump" name="wting/autojump"/>
-    <project path="source/zsh-plugin/oh-my-zsh" name="robbyrussell/oh-my-zsh.git"/>
-    <project path="source/zsh-plugin/zsh-autosuggestions" name="zsh-users/zsh-autosuggestions.git"/>
-    <project path="source/zsh-theme/powerlevel10k" name="romkatv/powerlevel10k.git"/>
-    <project path="source/tmux-plugin/tmux-themepack" name="jimeh/tmux-themepack.git"/>
-    <project path="source/vim" name="vim/vim.git"/>
+    <project path="source/bd" name="vigneshwaranr/bd" groups="notdefault,debug"/>
+    <project path="source/debug/crash/crash" name="crash-utility/crash" groups="notdefault,debug"/>
+    <project path="source/debug/gdb/gdb-dashboard" name="cyrus-and/gdb-dashboard" groups="notdefault,debug"/>
+    <project path="source/debug/gdb/gdbgui" name="cs01/gdbgui" groups="notdefault,debug"/>
+    <project path="source/debug/gdb/gef" name="hugsy/gef.git" groups="notdefault,debug"/>
+    <project path="source/luvcview" name="ksv1986/luvcview" groups="notdefault,util"/>
+    <project path="source/nemiver" name="GNOME/nemiver" groups="notdefault,debug"/>
+    <project path="source/zsh-plugin/autojump" name="wting/autojump" groups="notdefault,util"/>
+    <project path="source/zsh-plugin/oh-my-zsh" name="robbyrussell/oh-my-zsh.git" groups="notdefault,util"/>
+    <project path="source/zsh-plugin/zsh-autosuggestions" name="zsh-users/zsh-autosuggestions.git" groups="notdefault,util"/>
+    <project path="source/zsh-theme/powerlevel10k" name="romkatv/powerlevel10k.git" groups="notdefault,util"/>
+    <project path="source/tmux-plugin/tmux-themepack" name="jimeh/tmux-themepack.git" groups="notdefault,util"/>
+    <project path="source/vim" name="vim/vim.git" groups="notdefault,util"/>
 </manifest>
