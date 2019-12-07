@@ -11,9 +11,9 @@
         sync-j="4"
         sync-c="true" />
 
-    <project path="setup" name="wjxing/ToolBox" remote="self"/>
-    <project path="bin" name="wjxing/BinBox" remote="self"/>
-    <project path="config" name="wjxing/ToolConfBox" remote="self" revision="linux"/>
+    <project path="setup" name="wjxing/ToolBox" remote="self" groups="dev"/>
+    <project path="bin" name="wjxing/BinBox" remote="self" groups="dev"/>
+    <project path="config" name="wjxing/ToolConfBox" remote="self" revision="linux" groups="dev"/>
     <project path="source/bd" name="vigneshwaranr/bd" groups="notdefault,debug"/>
     <project path="source/debug/crash/crash" name="crash-utility/crash" groups="notdefault,debug"/>
     <project path="source/debug/gdb/gdb-dashboard" name="cyrus-and/gdb-dashboard" groups="notdefault,debug"/>
