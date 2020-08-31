@@ -20,7 +20,6 @@
     <project path="source/debug/gdb/gdbgui" name="cs01/gdbgui" groups="notdefault,debug"/>
     <project path="source/debug/gdb/gef" name="hugsy/gef.git" groups="notdefault,debug"/>
     <project path="source/luvcview" name="ksv1986/luvcview" groups="notdefault,util"/>
-    <project path="source/nemiver" name="GNOME/nemiver" groups="notdefault,debug"/>
     <project path="source/zsh-plugin/autojump" name="wting/autojump" groups="notdefault,util"/>
     <project path="source/zsh-plugin/oh-my-zsh" name="robbyrussell/oh-my-zsh.git" groups="notdefault,util"/>
     <project path="source/zsh-plugin/zsh-autosuggestions" name="zsh-users/zsh-autosuggestions.git" groups="notdefault,util"/>
