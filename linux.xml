@@ -19,6 +19,7 @@
     <project path="source/debug/gdb/gdb-dashboard" name="cyrus-and/gdb-dashboard" groups="notdefault,debug"/>
     <project path="source/debug/gdb/gdbgui" name="cs01/gdbgui" groups="notdefault,debug"/>
     <project path="source/debug/gdb/gef" name="hugsy/gef.git" groups="notdefault,debug"/>
+    <project path="source/fzf" name="junegunn/fzf.git" groups="notdefault,util"/>
     <project path="source/luvcview" name="ksv1986/luvcview" groups="notdefault,util"/>
     <project path="source/zsh-plugin/autojump" name="wting/autojump" groups="notdefault,util"/>
     <project path="source/zsh-plugin/oh-my-zsh" name="robbyrussell/oh-my-zsh.git" groups="notdefault,util"/>
