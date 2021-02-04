@@ -24,7 +24,7 @@
     <project path="source/zsh-plugin/autojump" name="wting/autojump" groups="notdefault,util"/>
     <project path="source/zsh-plugin/oh-my-zsh" name="robbyrussell/oh-my-zsh.git" groups="notdefault,util"/>
     <project path="source/zsh-plugin/zsh-autosuggestions" name="zsh-users/zsh-autosuggestions.git" groups="notdefault,util"/>
-    <project path="source/zsh-plugin/zsh-mouse" name="ashleyh/zsh-mouse.git" groups="notdefault,util"/>
+    <project path="source/zsh-plugin/zsh-mouse" name="ashleyh/zsh-mouse.git" groups="notdefault,util" revision="ash"/>
     <project path="source/zsh-theme/powerlevel10k" name="romkatv/powerlevel10k.git" groups="notdefault,util"/>
     <project path="source/tmux-plugin/tmux-themepack" name="jimeh/tmux-themepack.git" groups="notdefault,util"/>
     <project path="source/vim" name="vim/vim.git" groups="notdefault,util"/>
