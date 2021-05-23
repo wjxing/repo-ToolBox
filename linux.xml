@@ -15,7 +15,7 @@
     <project path="bin" name="wjxing/BinBox" remote="self" groups="dev"/>
     <project path="config" name="wjxing/ToolConfBox" remote="self" revision="linux" groups="dev"/>
     <project path="source/bd" name="vigneshwaranr/bd" groups="notdefault,debug"/>
-    <project path="source/code-factory" name="wjxing/code-factory" remote="self" groups="dev"/>
+    <project path="source/code-factory" name="wjxing/code-factory" remote="self" revision="dev" groups="dev"/>
     <project path="source/debug/crash/crash" name="crash-utility/crash" groups="notdefault,debug"/>
     <project path="source/debug/gdb/gdb-dashboard" name="cyrus-and/gdb-dashboard" groups="notdefault,debug"/>
     <project path="source/debug/gdb/gdbgui" name="cs01/gdbgui" groups="notdefault,debug"/>
